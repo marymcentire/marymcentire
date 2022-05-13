@@ -19,6 +19,7 @@ Accomplished Marketing Analyst and SEO Strategist with 7 years of experience in 
 
 ## 🏆 Certifications
 - HubSpot Marketing and Sales Software
+- HubSpot CMS for Developers (learning)
 - IBM Data Analysis Professional
 - Google IT Support
 - Google Analytics Individual Qualification
