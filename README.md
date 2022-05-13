@@ -10,6 +10,13 @@ Accomplished Marketing Analyst and SEO Strategist with 7 years of experience in 
 - IoT / Cloud Computing
 - Playing with 90s tech
 
+## 💻 Known Languages
+- Python
+- SQL
+- BASIC (learning)
+- DAX
+- Pascal (learning)
+
 ## 🏆 Certifications
 - HubSpot Marketing and Sales Software
 - IBM Data Analysis Professional
