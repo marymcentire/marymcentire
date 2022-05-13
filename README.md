@@ -27,3 +27,4 @@ Accomplished Marketing Analyst and SEO Strategist with 7 years of experience in 
 - Find me on LinkedIn [@marymcentire](https://www.linkedin.com/in/marymcentire/)
 - Read my blog at [thegrowgirlco.com](https://thegrowgirlco.com/)
 - Email me at [mke.mcentire@gmail.com](mke.mcentire@gmail.com)
+- View my Tableau Visualizations [@marymcentire](https://public.tableau.com/app/profile/mary.mcentire)
